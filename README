@@ -1,0 +1,12 @@
+pysample
+
+Skeleton of a Python project with examples of:
+
+- Testing with py.test, including docstrings and pep8 compliance.
+- Package data (distribute resources required by your code.)
+- Entry points (install as stand-alone scripts.)
+- Dependencies to other projects.
+- Command-line argument parsing with argparse.
+
+
+:copyright: 2015 Juan Reyero
